@@ -1,5 +1,5 @@
 # DonationPaymentGateway
- Payment Gateway Integration is developed using HTML,CSS and Bootstrap. For payment gateway, Razorpay is used. </br>
+ Payment Gateway Integration is developed using HTML, CSS and Bootstrap. For payment gateway, Razorpay is used. </br>
 
  For Demo use :-</br>
 -Mastercard Domestic</br>
